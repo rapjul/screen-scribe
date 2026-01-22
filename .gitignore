@@ -69,3 +69,6 @@ TextGrabber2/Secrets.plist
 *.sqlite
 *.sqlite3
 
+
+.agent/
+_*/
